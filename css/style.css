@@ -4,6 +4,7 @@ body {
   height: 100%;
   width: 100%;
   
+  font-family: 'Courier New', Courier, monospace;
   background-color: rgb(19, 18, 20);
   font-size: 18px;
   color: #fff;
